@@ -1,0 +1,2 @@
+model_checkpoint_path: "percobaan3.weight"
+all_model_checkpoint_paths: "percobaan3.weight"
